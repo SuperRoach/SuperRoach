@@ -1,6 +1,6 @@
 ### Hello there! 👋
 - 🌱 I’m currently learning Deno
-- 🤔 I’m looking for help with Documentation!
+- 🤔 I’m looking to collaborate with documenting your open source project!
 - 🔭 Currently working on: Building a Voron 3D printer, and lighting for it
 - Located in Ballarat, Australia
 <!--
