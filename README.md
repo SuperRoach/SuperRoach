@@ -1,7 +1,7 @@
 ### Hello there! 👋
-- 🌱 I’m currently learning Deno
+- 🌱 I’m currently learning Bun
 - 🤔 I’m looking to collaborate with documenting your open source project!
-- 🔭 Currently working on: Making use of a Bambulab printer
+- 🔭 Currently working on: Automation testing and Bluetooth keyboard stacks
 - Located in Ballarat, Australia
 <!--
 **SuperRoach/SuperRoach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
